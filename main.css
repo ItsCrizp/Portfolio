@@ -143,7 +143,6 @@ nav a.active{
     font-style: italic;
 }
 
-
 span{
     color: #FFC107;
 }
@@ -314,9 +313,3 @@ span{
         margin-top: 4rem;
     }
 }
-
-highlight {
-    color: #FFC107;
-    font-weight: 700;
-}
-
