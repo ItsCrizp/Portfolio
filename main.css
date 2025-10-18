@@ -306,3 +306,8 @@ span{
         margin-top: 4rem;
     }
 }
+
+highlight {
+    color: #FFC107;
+    font-weight: 700;
+}
