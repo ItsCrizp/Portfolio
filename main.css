@@ -136,6 +136,14 @@ nav a.active{
     font-weight: 700;
 }
 
+.home-content h3.aka{
+    margin: 5px 0 20px 0; 
+    font-size: 2rem; 
+    color: #bbb; 
+    font-style: italic;
+}
+
+
 span{
     color: #FFC107;
 }
@@ -311,3 +319,4 @@ highlight {
     color: #FFC107;
     font-weight: 700;
 }
+
